@@ -25,7 +25,7 @@ I'm a Software Engineer specializing in automation and API integration, currentl
 - OutSystems low-code development
 - RESTful API development & integration  
 - Process automation & optimization
-- Cross-functional collaboration (DevOps, Product, Engineering)
+- Cross-functional collaboration (DevOps, Product, Engineering, Networking)
 - Technical documentation & solution design
 
 ### 📊 Current Projects

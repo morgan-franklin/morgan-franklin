@@ -2,84 +2,101 @@
 
 **Software Engineer → QA Automation Engineer**
 
-Building test automation frameworks and learning API testing with Python.
+Building test automation frameworks and mastering API testing with Python.
 
 ## 🚀 Featured Projects
 
 ### [🏊‍♂️ SwimMeet API Test Automation Framework](https://github.com/morgan-franklin/swimmeet-api-testing)
-**My first comprehensive API test framework - 45 automated tests**
+**Comprehensive pytest-based API test framework**
 
-- ✅ **45 tests** with 100% pass rate
+- ✅ **45 automated tests** with 100% pass rate
 - 🎯 Unit (36), Integration (5), Performance (4) testing
 - 🔧 Parametrized data-driven tests with pytest
-- 📊 HTML test reports and documentation
+- 📊 HTML test reports and comprehensive documentation
 - ⚡ Mock Flask API with realistic business logic
 
 **Tech:** Python · pytest · Flask · requests
 
-**Built in 2 days** - My first major QA automation project
+---
+
+### [🎭 E-Commerce UI Test Automation Framework](https://github.com/morgan-franklin/ecommerce-ui-testing)
+**Playwright-based UI testing with Page Object Model**
+
+- ✅ **14 automated tests** with 100% pass rate
+- 🎯 Login (4), Products (5), Cart (5) test coverage
+- 🏗️ Page Object Model design pattern
+- 📸 Automatic screenshot/video capture on failure
+- 🦊 Firefox browser (M1/M2 Mac optimized)
+
+**Tech:** Python · Playwright · pytest · Page Object Model
 
 ---
 
 ### [⚡ FastAPI Learning Series](https://github.com/morgan-franklin/fastapi-learning-series)
-**Learning to build REST APIs**
+**Building production-ready REST APIs**
 
-- 📚 Following Corey Schafer's tutorial series
-- 🔨 Building blog application (Part 1/10 complete)
-- 🎓 Learning API development to become a better tester
+- 📚 Corey Schafer's tutorial series (5/11 parts complete - 45%)
+- 🔨 Blog application with database, validation, templates
+- 💾 SQLAlchemy ORM, Pydantic schemas, Jinja2 templates
+- 🎓 Learning API development to enhance testing skills
 
-**Tech:** FastAPI · Python (currently learning)
-
-**Status:** In progress - Part 1 complete
+**Tech:** FastAPI · Python · SQLAlchemy · Pydantic · Jinja2
 
 ---
 
-## 🔧 What I Actually Know
+## 🔧 Tech Stack
 
-**Testing (Have Used):**
-- pytest (test framework)
-- requests library (API testing)
-- Postman (API testing at work)
-- HTML test reports (pytest-html)
+**Testing & QA:**
+- pytest, Playwright, Postman
+- API Testing (requests library)
+- Page Object Model pattern
+- Test framework design
 
-**Programming (Proficient):**
-- Python (building test frameworks)
+**Programming:**
+- Python (test automation)
 - JavaScript (from work)
 - SQL (database queries)
 
-**Development (Have Used at Work):**
-- OutSystems (low-code platform)
-- RESTful APIs (building and testing)
+**Development:**
+- FastAPI, Flask, SQLAlchemy
+- RESTful APIs
 - Git/GitHub
-- JIRA
+- OutSystems (work)
 
 **Currently Learning:**
-- FastAPI (API development)
+- FastAPI (45% complete)
 - Advanced pytest patterns
-- CI/CD basics
+- CI/CD fundamentals
 
 ## 💼 Experience
 
 **Software Engineer** at MetTel (June 2021 - Present)
 - Create Postman test suites for API validation
-- Build automation with OutSystems (30% efficiency gain)
+- Build automation frameworks (30% efficiency gain)
 - Develop and test RESTful APIs
 - Mentor team on API testing best practices
 
-**Certifications:** CompTIA Security+ (April 2024)
+**Education:**
+- MS Computer Science - Pace University (3.74 GPA)
+- CompTIA Security+ (April 2024)
 
-## 🌱 Currently Learning (Active)
+## 📊 Portfolio Stats
 
-- ✅ FastAPI - Building REST APIs (Part 1/10 complete)
-- 🔄 Advanced pytest - Fixtures, markers, parametrization
-- 📚 Test automation patterns and best practices
+**Total Automated Tests:** 59+
+- SwimMeet API: 45 tests
+- E-Commerce UI: 14 tests
 
-## 🎯 Next on My Learning List
+**Frameworks Built:** 3
+- API testing framework (pytest)
+- UI testing framework (Playwright)
+- FastAPI learning project
 
-- Playwright or Selenium (UI testing)
-- CI/CD with GitHub Actions
-- Database testing strategies
-- Performance testing
+## 🌱 Currently
+
+- 🔄 Completing FastAPI series (5/11 parts)
+- 📚 Building comprehensive test portfolio
+- 🎯 Transitioning to QA Automation Engineer
+- 💡 Continuous learning and skill building
 
 ## 🏊‍♂️ Fun Fact
 
@@ -93,4 +110,4 @@ Competitive swimmer since age 4! Combined my passion with coding by building a s
 
 ---
 
-*Building my QA automation skills one project at a time!* 🚀
+*Building QA automation skills with real projects!* 🚀
